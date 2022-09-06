@@ -1,6 +1,6 @@
 Reading Notes <br>
-Class _____<br>
-Re _____________<br><br><br><br>
+Class 06<br>
+Re: OSI and its Layers; Wireshark<br><br><br><br>
 
 *This document is a summary of information in the article linked within.*<br><br>
 
