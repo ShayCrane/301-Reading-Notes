@@ -1,8 +1,10 @@
 # 301-Reading-Notes
 ## Networking / Systems Administration Course Reading Notes
 
-1.  [About Windows Server; Class 01](https://github.com/ShayCrane/301-Reading-Notes/blob/main/class01.md)
-2.  [Domain Controllers; Class 02](https://github.com/ShayCrane/301-Reading-Notes/blob/main/class02.md)
-3.  [Active Directory, DHCP; Class 03](https://github.com/ShayCrane/301-Reading-Notes/blob/main/class03.md)
-4.  [Group Policy Objects; Wifi Standards, Technology, and Encryption; Class 04](https://github.com/ShayCrane/301-Reading-Notes/blob/main/class04.md)
-5.  [Windows' Patch Tuesday; Class 05](https://github.com/ShayCrane/301-Reading-Notes/blob/main/class05.md)
+1.  [Class 01; About Windows Server](https://github.com/ShayCrane/301-Reading-Notes/blob/main/class01.md)
+2.  [Class 02; Domain Controllers](https://github.com/ShayCrane/301-Reading-Notes/blob/main/class02.md)
+3.  [Class 03; Active Directory, DHCP](https://github.com/ShayCrane/301-Reading-Notes/blob/main/class03.md)
+4.  [Class 04; Group Policy Objects; Wifi Standards, Technology, and Encryption](https://github.com/ShayCrane/301-Reading-Notes/blob/main/class04.md)
+5.  [Class 05; Windows' Patch Tuesday](https://github.com/ShayCrane/301-Reading-Notes/blob/main/class05.md)
+6.  [Class 06; OSI and its Layers, Wireshark](https://github.com/ShayCrane/301-Reading-Notes/blob/main/class06.md)
+7.  [Class 07; NGINX](https://github.com/ShayCrane/301-Reading-Notes/blob/main/class07.md)
