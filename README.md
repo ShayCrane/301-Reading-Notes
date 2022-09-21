@@ -7,6 +7,6 @@
 4.  [Class 04; Group Policy Objects; Wifi Standards, Technology, and Encryption](https://github.com/ShayCrane/301-Reading-Notes/blob/main/class04.md)
 5.  [Class 05; Windows' Patch Tuesday](https://github.com/ShayCrane/301-Reading-Notes/blob/main/class05.md)
 6.  [Class 06; OSI and its Layers, Wireshark](https://github.com/ShayCrane/301-Reading-Notes/blob/main/class06.md)
-7.  
+1.  [Class 13; Port Scanning](https://github.com/ShayCrane/301-Reading-Notes/blob/main/class13.md)
 1.  [Class 15; Diversity in the Workplace](https://github.com/ShayCrane/301-Reading-Notes/blob/main/class15.md)
 
